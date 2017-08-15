@@ -1,0 +1,15 @@
+h1 {
+  color: maroon;
+font-size: 75px;
+font-family: "Copperplate";
+}
+
+h2 {
+  color: maroon;
+}
+
+p {
+  font-family: "cursive";
+  font-size: 30px;
+  color: darkmagenta;
+}
